@@ -1,0 +1,1 @@
+The ActionScript language is used to program and manipulate a variety of Adobe's virtual machines including the traditional, web-based Flash player, and the Adobe Integrated Runtime (AIR) for desktop, mobile, and devices such as smart TVs.
